@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : ARM CortexM bare metal Programming and MicroPython.
 - 👯 I’m looking to collaborate on : STM32 Device drivers.
-- 🤔 I’m looking for help with : STM32F407 I2C configuration.
+- 🤔 I’m looking for help with : STM32F103 SPI configuration.
 - 💬 Ask me about : Embedded Firmware and PCB Design.
 - 📫 How to reach me: @jack_the_nerd on Twitter.
 - ⚡ Fun fact:😄 It isn't a Hardware bug if you can fix it in Software.
