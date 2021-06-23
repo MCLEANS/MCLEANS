@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jack McLeans, Electronics and Computer Engineering Student, Embedded Systems Enthusiast, Total nerd, Bare Metal Engineer.
+### Hi there 👋 I'm Jack McLeans, Electronics and Computer Engineer, Embedded Systems Enthusiast, Total nerd, Bare Metal Engineer.
 
 - 🔭 I’m currently working on : Predictive Maintenance of Equipment using IoT and ML.
 - 🌱 I’m currently learning : Real Time Operating Systems (FreeRTOS) on ARM CortexM and MicroPython.
